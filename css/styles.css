@@ -42,7 +42,8 @@ body {
 #showcase {
     background-image: url("../img/showcase.jpg");
     background-size: cover;
-    height: 300px;
+    background-position: center;
+    min-height: 300px;
     margin-bottom: 30px;
     text-align: center;
     background-repeat: no-repeat;
